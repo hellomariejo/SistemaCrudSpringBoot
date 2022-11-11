@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Spring Boot/fullstack-backend"
+		},
+		{
+			"path": "../../../../React/fullstack-front"
+		},
+		{
+			"path": "../../../sistema-backend"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
